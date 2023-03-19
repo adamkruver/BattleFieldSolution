@@ -1,0 +1,15 @@
+T:\CSharp\Education\BattleField\BattleFieldSolution\bin\Debug\net6.0\BattleFieldSolution.exe
+T:\CSharp\Education\BattleField\BattleFieldSolution\bin\Debug\net6.0\BattleFieldSolution.deps.json
+T:\CSharp\Education\BattleField\BattleFieldSolution\bin\Debug\net6.0\BattleFieldSolution.runtimeconfig.json
+T:\CSharp\Education\BattleField\BattleFieldSolution\bin\Debug\net6.0\BattleFieldSolution.dll
+T:\CSharp\Education\BattleField\BattleFieldSolution\bin\Debug\net6.0\BattleFieldSolution.pdb
+T:\CSharp\Education\BattleField\BattleFieldSolution\obj\Debug\net6.0\BattleFieldSolution.csproj.AssemblyReference.cache
+T:\CSharp\Education\BattleField\BattleFieldSolution\obj\Debug\net6.0\BattleFieldSolution.GeneratedMSBuildEditorConfig.editorconfig
+T:\CSharp\Education\BattleField\BattleFieldSolution\obj\Debug\net6.0\BattleFieldSolution.AssemblyInfoInputs.cache
+T:\CSharp\Education\BattleField\BattleFieldSolution\obj\Debug\net6.0\BattleFieldSolution.AssemblyInfo.cs
+T:\CSharp\Education\BattleField\BattleFieldSolution\obj\Debug\net6.0\BattleFieldSolution.csproj.CoreCompileInputs.cache
+T:\CSharp\Education\BattleField\BattleFieldSolution\obj\Debug\net6.0\BattleFieldSolution.dll
+T:\CSharp\Education\BattleField\BattleFieldSolution\obj\Debug\net6.0\refint\BattleFieldSolution.dll
+T:\CSharp\Education\BattleField\BattleFieldSolution\obj\Debug\net6.0\BattleFieldSolution.pdb
+T:\CSharp\Education\BattleField\BattleFieldSolution\obj\Debug\net6.0\BattleFieldSolution.genruntimeconfig.cache
+T:\CSharp\Education\BattleField\BattleFieldSolution\obj\Debug\net6.0\ref\BattleFieldSolution.dll
